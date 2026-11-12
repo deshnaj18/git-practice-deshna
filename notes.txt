@@ -1,4 +1,4 @@
-Line 1: I am learning Git and GitHub.
+Line 1: Git helps track project history.
 Git tracks changes in my files.
 Each commit saves a checkpoint
 This line was added on a feature branch.
